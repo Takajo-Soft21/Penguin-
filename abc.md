@@ -5,4 +5,4 @@
 
 |吹奏楽|Saxophone|
 |---|---|
-|![](onpu.jpg)|![](sax.png)|
+|![](onpu314.jpg)|![](sax.png)|
